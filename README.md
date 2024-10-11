@@ -24,6 +24,10 @@
 # Projects
 - [Discrete-event-simulation-for-solar-cell-production](https://github.com/slierp/Discrete-event-simulation-for-solar-cell-production)
 
+# Forum Posts
+- [Simulation in Python](https://or.stackexchange.com/questions/1384/simulation-in-python)
+- 
+
 # Tools
 
 **C\#**
@@ -31,8 +35,14 @@
 
 **Closed Source**
   - AnyLogic ([Website](https://www.anylogic.com/))
+  - Arena ([Website](https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html))
+  - DELMIA ([Website](https://www.3ds.com/products/delmia))
+  - Enterprise Dynamics ([Website](https://www.incontrolsim.com/))
+  - ExtendSim ([Website](https://extendsim.com/))
+  - FlexSim ([Website](https://www.flexsim.com/))
   - NetSim ([Website](https://khronos-des.sourceforge.net/))
   - Simul8 ([Website](https://www.simul8.com/))
+  - GoldSim ([Website](https://www.goldsim.com/))
 
 **Julia**
 - ConcurrentSim ([Github](https://github.com/JuliaDynamics/ConcurrentSim.jl))
