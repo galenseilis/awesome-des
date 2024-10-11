@@ -46,6 +46,7 @@
 - DESpy ([Github](https://github.com/ahbuss/DESpy))
 - DESPy ([Github](https://github.com/irwinsnet-old/DesPy))
 - Hades ([Github](https://github.com/ki-oss/hades))
+- Khronos ([Sourceforge](https://khronos-des.sourceforge.net/))
 - pesim ([Github](https://github.com/Tefx/pesim))
 - PMSIM ([Github](https://github.com/mbafrani/AutomaticProcessSimulation))
 - Queueing-tool ([Github](https://github.com/djordon/queueing-tool))
