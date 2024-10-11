@@ -24,6 +24,7 @@
 # Papers
 
 - [A review of open source discrete event simulation software for operations research](https://www.researchgate.net/publication/281391626_A_review_of_open_source_discrete_event_simulation_software_for_operations_research#pfc)
+- [Discrete Event Simulation: It's Easy with SimPy!](https://arxiv.org/abs/2405.01562)
 
 # Projects
 - [Discrete-event-simulation-for-solar-cell-production](https://github.com/slierp/Discrete-event-simulation-for-solar-cell-production)
