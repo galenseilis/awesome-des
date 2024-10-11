@@ -39,7 +39,7 @@
 - Sim\# ([Github](https://github.com/heal-research/SimSharp))
 
 **C++**
-- simcpp20 ([Github](https://github.com/fschuetz04/simcpp20))
+- SimCpp20 ([Github](https://github.com/fschuetz04/simcpp20))
 
 **Closed Source**
   - AnyLogic ([Website](https://www.anylogic.com/))
