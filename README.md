@@ -13,6 +13,7 @@
 - [Inspection Bias in Queueing Systems](http://www.geraintianpalmer.org.uk/2020/12/18/inspection-queueing/)
 - [Introduction to Discrete Event Simulation with Python](https://medium.com/@vitostamatti1995/introduction-to-discrete-event-simulation-with-python-3b0cce67f92e)
 - [Object-Oriented Discrete Event Simulation — with SimPy](https://towardsdatascience.com/object-oriented-discrete-event-simulation-with-simpy-53ad82f5f6e2)
+- [Queueing Simulations](https://www.programmingopiethehokie.com/2023/01/queueing-simulations.html)
 - [Reproducibility in discrete event simulation](http://www.geraintianpalmer.org.uk/2017/10/30/ciw-paper/)
 - [SimPy: Simulating Real-World Processes With Python](https://realpython.com/simpy-simulating-with-python/)
 - [Simulating and Visualizing Real-Life Events in Python with SimPy](https://towardsdatascience.com/simulating-real-life-events-in-python-with-simpy-619ffcdbf81f)
