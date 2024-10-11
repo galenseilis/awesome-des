@@ -26,7 +26,6 @@
 
 # Forum Posts
 - [Simulation in Python](https://or.stackexchange.com/questions/1384/simulation-in-python)
-- 
 
 # Tools
 
