@@ -29,7 +29,7 @@
 **C\#**
 - Sim\# ([Github](https://github.com/heal-research/SimSharp))
 
-  **Closed Source**
+**Closed Source**
   - AnyLogic ([Website](https://www.anylogic.com/))
   - NetSim ([Website](https://khronos-des.sourceforge.net/))
   - Simul8 ([Website](https://www.simul8.com/))
