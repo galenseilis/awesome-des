@@ -29,6 +29,10 @@
 **C\#**
 - Sim\# ([Github](https://github.com/heal-research/SimSharp))
 
+  **Closed Source**
+  - AnyLogic ([Website](https://www.anylogic.com/))
+  - Simul8 ([Website](https://www.simul8.com/))
+
 **Julia**
 - ConcurrentSim ([Github](https://github.com/JuliaDynamics/ConcurrentSim.jl))
 
