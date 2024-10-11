@@ -36,6 +36,7 @@
 - DE-Sim ([Github](https://github.com/KarrLab/de_sim))
 - DESimpy ([Github](https://github.com/galenseilis/DESimpy))
 - DESpy ([Github](https://github.com/ahbuss/DESpy))
+- DESPy ([Github](https://github.com/irwinsnet-old/DesPy))
 - Hades ([Github](https://github.com/ki-oss/hades))
 - pesim ([Github](https://github.com/Tefx/pesim))
 - PMSIM ([Github](https://github.com/mbafrani/AutomaticProcessSimulation))
