@@ -12,6 +12,7 @@
 - [Inspection Bias in Queueing Systems](http://www.geraintianpalmer.org.uk/2020/12/18/inspection-queueing/)
 - [Introduction to Discrete Event Simulation with Python](https://medium.com/@vitostamatti1995/introduction-to-discrete-event-simulation-with-python-3b0cce67f92e)
 - [Reproducibility in discrete event simulation](http://www.geraintianpalmer.org.uk/2017/10/30/ciw-paper/)
+- [SimPy: Simulating Real-World Processes With Python](https://realpython.com/simpy-simulating-with-python/)
 - [The effect of variability on waiting times](http://www.geraintianpalmer.org.uk/2017/07/26/variability-waits-ciw/)
 
 # Books
