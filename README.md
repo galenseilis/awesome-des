@@ -17,6 +17,7 @@
 - [Reproducibility in discrete event simulation](http://www.geraintianpalmer.org.uk/2017/10/30/ciw-paper/) / [Reproducibility in discrete event simulation](https://www.software.ac.uk/blog/reproducibility-discrete-event-simulation)
 - [SimPy: Simulating Real-World Processes With Python](https://realpython.com/simpy-simulating-with-python/)
 - [Simulating and Visualizing Real-Life Events in Python with SimPy](https://towardsdatascience.com/simulating-real-life-events-in-python-with-simpy-619ffcdbf81f)
+- [Simulation Design: Trans-Paradigm Best-Practice from Software Engineering](https://www.jasss.org/18/3/9.html)
 - [The effect of variability on waiting times](http://www.geraintianpalmer.org.uk/2017/07/26/variability-waits-ciw/)
 
 # Books
