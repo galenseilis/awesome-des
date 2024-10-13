@@ -21,6 +21,7 @@
 - [The effect of variability on waiting times](http://www.geraintianpalmer.org.uk/2017/07/26/variability-waits-ciw/)
 
 # Books
+- [Theory of Modeling and Simulation, 3rd Ed., Zeigler, Muzy, & Kofman.](https://shop.elsevier.com/books/theory-of-modeling-and-simulation/zeigler/978-0-12-813370-5)
 
 # Papers
 
