@@ -59,7 +59,6 @@
 **Python**
 - BPSimpy ([Github](https://github.com/claudiafracca/BPSimpyLibrary))
 - Ciw ([Github](https://github.com/CiwPython/Ciw))
-- desim ([Github](https://github.com/garro95/desim))
 - desim ([Github](https://github.com/sed-group/desim))
 - DE-Sim ([Github](https://github.com/KarrLab/de_sim))
 - DESimpy ([Github](https://github.com/galenseilis/DESimpy))
