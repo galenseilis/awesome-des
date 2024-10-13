@@ -81,3 +81,4 @@
 - desim ([Github](https://github.com/garro95/desim))
 - DESRu ([Github](https://github.com/galenseilis/DESRu))
 - Sim ([Github](https://github.com/ndebuhr/sim))
+- Simul ([Github](https://github.com/jmqd/simul))
