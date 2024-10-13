@@ -70,11 +70,13 @@
 - Khronos ([Sourceforge](https://khronos-des.sourceforge.net/))
 - pesim ([Github](https://github.com/Tefx/pesim))
 - PMSIM ([Github](https://github.com/mbafrani/AutomaticProcessSimulation))
+- Py-DES ([Github](https://github.com/vitostamatti/pydes/tree/main))
 - Queueing-tool ([Github](https://github.com/djordon/queueing-tool))
 - Salabim ([Github](https://github.com/salabim/salabim))
 - SimDist ([Github](https://github.com/galenseilis/SimDist))
 - SimPy ([Gitlab](https://gitlab.com/team-simpy/simpy))
 - SimQ ([Github](https://github.com/galenseilis/SimQ))
+- UPSTAGE ([Github](https://github.com/JamesArruda/upstage))
 
 **R**
 - simmer ([Github](https://github.com/r-simmer/simmer))
