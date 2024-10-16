@@ -54,6 +54,9 @@
   - Simul8 ([Website](https://www.simul8.com/))
   - GoldSim ([Website](https://www.goldsim.com/))
 
+**Erlang**
+- Sim-Diasca ([Github](https://github.com/Olivier-Boudeville-EDF/Sim-Diasca))
+
 **Julia**
 - ConcurrentSim ([Github](https://github.com/JuliaDynamics/ConcurrentSim.jl))
 
