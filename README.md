@@ -76,6 +76,7 @@
 - SimDist ([Github](https://github.com/galenseilis/SimDist))
 - SimPy ([Gitlab](https://gitlab.com/team-simpy/simpy))
 - SimQ ([Github](https://github.com/galenseilis/SimQ))
+- discrevpy ([Github](https://github.com/snkas/discrevpy))
 - UPSTAGE ([Github](https://github.com/JamesArruda/upstage))
 
 **R**
