@@ -34,7 +34,11 @@
 # Projects
 - [Discrete-event-simulation-for-solar-cell-production](https://github.com/slierp/Discrete-event-simulation-for-solar-cell-production)
 
-# Forum Posts
+# Forums 
+
+- [Reddit/SimPy](https://www.reddit.com/r/SimPy/)
+
+## Notable Posts
 - [Simulation in Python](https://or.stackexchange.com/questions/1384/simulation-in-python)
 - [What are process-based DES and event-based DES, exactly?](https://or.stackexchange.com/questions/11670/what-are-process-based-des-and-event-based-des-exactly)
 
