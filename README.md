@@ -21,6 +21,7 @@
 - [The effect of variability on waiting times](http://www.geraintianpalmer.org.uk/2017/07/26/variability-waits-ciw/)
 
 # Books
+- [Simulation, Sheldon Ross](https://www.amazon.com/Simulation-Sheldon-M-Ross/dp/0124158250)
 - [Simulation in Python with SimPy, Harry Munro](https://simulation.teachem.digital/free-simulation-in-python-guide) ([Reddit Link](https://www.reddit.com/r/Python/comments/1gz3bgp/i_wrote_a_guide_to_simulation_in_python_with_simpy/))
 - [Systems Simulation Techniques with Matlab and Simulink](https://www.wiley.com/en-gb/System+Simulation+Techniques+with+MATLAB+and+Simulink-p-9781118647929)
 - [Theory of Modeling and Simulation, 3rd Ed., Zeigler, Muzy, & Kofman.](https://shop.elsevier.com/books/theory-of-modeling-and-simulation/zeigler/978-0-12-813370-5)
