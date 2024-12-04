@@ -21,6 +21,7 @@
 - [The effect of variability on waiting times](http://www.geraintianpalmer.org.uk/2017/07/26/variability-waits-ciw/)
 
 # Books
+- [Modeling and Simulation of Discrete-Event Systems](https://www.amazon.ca/Modeling-Simulation-Discrete-Event-Systems/dp/111838699X)
 - [Simulation, Sheldon Ross](https://www.amazon.com/Simulation-Sheldon-M-Ross/dp/0124158250)
 - [Simulation: The Practice of Model Development and Use, Stewart Robinson](https://www.amazon.ca/Simulation-Practice-Model-Development-Use/dp/0470847727)
 - [Simulation-Based Optimization: Parametric Optimization Techniques and Reinforcement Learning, Abhijit Gosavi](https://link.springer.com/book/10.1007/978-1-4899-7491-4)
