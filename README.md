@@ -21,6 +21,7 @@
 - [The effect of variability on waiting times](http://www.geraintianpalmer.org.uk/2017/07/26/variability-waits-ciw/)
 
 # Books
+- [Discrete-Event Modeling and Simulation: Theory and Applications](https://www.amazon.ca/Discrete-Event-Modeling-Simulation-Theory-Applications/dp/1420072331)
 - [Discrete-Event Simulation: A First Course](https://www.amazon.ca/Discrete-Event-Simulation-Course-Larry-Leemis/dp/0131429175)
 - [Introduction to Discrete Event Simulation and Agent-based Modeling: Voting Systems, Health Care, Military, and Manufacturing](https://link.springer.com/book/10.1007/978-0-85729-139-4)
 - [Modeling and Simulation of Complex Systems](https://link.springer.com/book/10.1007/978-3-658-07529-3)
