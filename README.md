@@ -84,6 +84,7 @@
 - BPSimpy ([Github](https://github.com/claudiafracca/BPSimpyLibrary))
 - Ciw ([Github](https://github.com/CiwPython/Ciw))
 - desim ([Github](https://github.com/sed-group/desim))
+- desmod [Github](https://github.com/westerndigitalcorporation/desmod)
 - DE-Sim ([Github](https://github.com/KarrLab/de_sim))
 - DESimpy ([Github](https://github.com/galenseilis/DESimpy))
 - DESpy ([Github](https://github.com/ahbuss/DESpy))
