@@ -107,9 +107,9 @@
 - simmer ([Github](https://github.com/r-simmer/simmer))
 
 **Rust**
-- nexosim (formerly "Asynchronix") ([Github](https://github.com/asynchronics/asynchronix))
 - desim ([Github](https://github.com/garro95/desim))
 - DESRu ([Github](https://github.com/galenseilis/DESRu))
+- nexosim ([Github](https://github.com/asynchronics/nexosim))
 - Sim ([Github](https://github.com/ndebuhr/sim))
 - Simcore ([Github](https://github.com/systems-group/simcore/tree/main))
 - Simul ([Github](https://github.com/jmqd/simul))
