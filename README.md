@@ -107,7 +107,7 @@
 - simmer ([Github](https://github.com/r-simmer/simmer))
 
 **Rust**
-- Asynchronix ([Github](https://github.com/asynchronics/asynchronix))
+- nexosim (formerly "Asynchronix") ([Github](https://github.com/asynchronics/asynchronix))
 - desim ([Github](https://github.com/garro95/desim))
 - DESRu ([Github](https://github.com/galenseilis/DESRu))
 - Sim ([Github](https://github.com/ndebuhr/sim))
