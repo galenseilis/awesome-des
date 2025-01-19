@@ -54,6 +54,7 @@
 ## Notable Posts
 - [Simulation in Python](https://or.stackexchange.com/questions/1384/simulation-in-python)
 - [What are process-based DES and event-based DES, exactly?](https://or.stackexchange.com/questions/11670/what-are-process-based-des-and-event-based-des-exactly)
+- [Which books are used today to learn discrete-event simulation?](https://stackoverflow.com/questions/40428009/which-books-are-used-today-to-learn-discrete-event-simulation)
 
 # Tools
 
