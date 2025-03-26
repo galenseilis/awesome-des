@@ -78,6 +78,9 @@
 **Erlang**
 - Sim-Diasca ([Github](https://github.com/Olivier-Boudeville-EDF/Sim-Diasca))
 
+**Java**
+- jasima ([Github](https://github.com/jasima-simulator/jasima-simcore))
+
 **Julia**
 - ConcurrentSim ([Github](https://github.com/JuliaDynamics/ConcurrentSim.jl))
 
