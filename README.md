@@ -49,6 +49,7 @@
 
 # Forums 
 
+- [r/CiwPython](https://www.reddit.com/r/CiwPython/)
 - [r/SimPy](https://www.reddit.com/r/SimPy/)
 
 ## Notable Posts
