@@ -119,5 +119,6 @@
 - Simcore ([Github](https://github.com/systems-group/simcore/tree/main))
 - Simul ([Github](https://github.com/jmqd/simul))
 
-**Videos**
+# Videos
+
 [Ciw Tutorials](https://www.youtube.com/playlist?list=PLduYMAFW6YatFvymP_dCddjGCB7WBvzp_)
