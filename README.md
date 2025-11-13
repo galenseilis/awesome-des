@@ -98,6 +98,7 @@
 - Hagane ([Github](https://github.com/carlosles/hagane/tree/main))
 - Khronos ([Sourceforge](https://khronos-des.sourceforge.net/))
 - pesim ([Github](https://github.com/Tefx/pesim))
+- plugboard ([Github)(https://github.com/plugboard-dev/plugboard))
 - PMSIM ([Github](https://github.com/mbafrani/AutomaticProcessSimulation))
 - Py-DES ([Github](https://github.com/vitostamatti/pydes/tree/main))
 - Queueing-tool ([Github](https://github.com/djordon/queueing-tool))
