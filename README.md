@@ -103,6 +103,7 @@
 - Py-DES ([Github](https://github.com/vitostamatti/pydes/tree/main))
 - Queueing-tool ([Github](https://github.com/djordon/queueing-tool))
 - Salabim ([Github](https://github.com/salabim/salabim))
+- SimCraft ([Github](https://github.com/bulentsoykan/simcraft))
 - SimDist ([Github](https://github.com/galenseilis/SimDist))
 - SimPy ([Gitlab](https://gitlab.com/team-simpy/simpy))
 - SimQ ([Github](https://github.com/galenseilis/SimQ))
