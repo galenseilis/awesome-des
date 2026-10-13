@@ -95,6 +95,7 @@
 - DESPy ([Github](https://github.com/irwinsnet-old/DesPy))
 - Hades ([Github](https://github.com/ki-oss/hades))
 - Hagane ([Github](https://github.com/carlosles/hagane/tree/main))
+- HCiw ([Github](https://github.com/galenseilis/HCiw))
 - Khronos ([Sourceforge](https://khronos-des.sourceforge.net/))
 - pesim ([Github](https://github.com/Tefx/pesim))
 - plugboard ([Github)(https://github.com/plugboard-dev/plugboard))
