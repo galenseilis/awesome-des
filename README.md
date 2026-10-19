@@ -1,6 +1,21 @@
-# Awesome Discrete Event Simulation [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) 
+# Awesome Discrete Event Simulation [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-# Blog Posts
+> A curated list of discrete event simulation (DES) resources: blog posts, books, papers, projects, forums, tools, and videos.
+
+## Contents
+
+- [Blog Posts](#blog-posts)
+- [Books](#books)
+- [Papers](#papers)
+- [Projects](#projects)
+- [Forums](#forums)
+- [Tools](#tools)
+- [Videos](#videos)
+- [Related Lists](#related-lists)
+- [Contributing](#contributing)
+
+## Blog Posts
+
 - [A Ciw Implementation of SimPy’s Car Example](https://galenseilis.github.io/blog/posts/python-ciw-simpy-car/)
 - [A Ciw Implementation of SimPy’s Clock Example](https://galenseilis.github.io/blog/posts/python-ciw-simpy-clock/)
 - [A Guide to Building Hybrid DES+SD Simulations in Ciw](http://www.geraintianpalmer.org.uk/2023/08/03/hybrid-simulation-ciw/)
@@ -20,84 +35,107 @@
 - [Simulation Design: Trans-Paradigm Best-Practice from Software Engineering](https://www.jasss.org/18/3/9.html)
 - [The effect of variability on waiting times](http://www.geraintianpalmer.org.uk/2017/07/26/variability-waits-ciw/)
 
-# Books
+## Books
 
 - [Discrete-Event Modeling and Simulation: A Practitioner's Guide](https://www.amazon.ca/Discrete-Event-Modeling-Simulation-Practitioners-Computational-ebook/dp/B00OD4RVJ2)
 - [Discrete-Event Modeling and Simulation: Theory and Applications](https://www.amazon.ca/Discrete-Event-Modeling-Simulation-Theory-Applications/dp/1420072331)
 - [Discrete-Event Simulation: A First Course](https://www.amazon.ca/Discrete-Event-Simulation-Course-Larry-Leemis/dp/0131429175)
+- [Discrete-Event Simulation: Modeling, Programming, and Analysis](https://link.springer.com/book/10.1007/978-1-4757-3552-9)
+- [Discrete-Event System Simulation](https://www.pearson.com/en-us/subject-catalog/p/Banks-Discrete-Event-System-Simulation-5th-Edition/P200000003161)
+- [Foundations and Methods of Stochastic Simulation: A First Course](https://link.springer.com/book/10.1007/978-3-030-86194-0)
 - [Introduction to Discrete Event Simulation and Agent-based Modeling: Voting Systems, Health Care, Military, and Manufacturing](https://link.springer.com/book/10.1007/978-0-85729-139-4)
+- [Introduction to Discrete Event Systems](https://link.springer.com/book/10.1007/978-3-030-72274-6)
 - [Modeling and Simulation of Complex Systems](https://link.springer.com/book/10.1007/978-3-658-07529-3)
 - [Modeling and Simulation of Discrete-Event Systems](https://www.amazon.ca/Modeling-Simulation-Discrete-Event-Systems/dp/111838699X)
+- [Simio and Simulation: Modeling, Analysis, Applications](https://textbook.simio.com/SASMAA/index.html)
+- [Simulation Modeling and Analysis](https://www.mheducation.com/highered/product/simulation-modeling-analysis-law-kelton/M9781264266791.html)
+- [Simulation Modeling using the Kotlin Simulation Library (KSL)](https://rossetti.github.io/KSLBook/)
 - [Simulation, Sheldon Ross](https://www.amazon.com/Simulation-Sheldon-M-Ross/dp/0124158250)
 - [Simulation: The Practice of Model Development and Use, Stewart Robinson](https://www.amazon.ca/Simulation-Practice-Model-Development-Use/dp/0470847727)
 - [Simulation-Based Optimization: Parametric Optimization Techniques and Reinforcement Learning, Abhijit Gosavi](https://link.springer.com/book/10.1007/978-1-4899-7491-4)
 - [Simulation of Industrial Systems: Discrete Event Simulation Using Excel/VBA](https://www.amazon.ca/Simulation-Industrial-Systems-Discrete-Event/dp/1420067443)
 - [Systems Simulation Techniques with Matlab and Simulink](https://www.wiley.com/en-gb/System+Simulation+Techniques+with+MATLAB+and+Simulink-p-9781118647929)
+- [The Little Book of DES](https://des.hsma.co.uk/)
 - [Theory of Modeling and Simulation, 3rd Ed., Zeigler, Muzy, & Kofman.](https://shop.elsevier.com/books/theory-of-modeling-and-simulation/zeigler/978-0-12-813370-5)
 - [Use Cases of Discrete Event Simulation](https://link.springer.com/book/10.1007/978-3-642-28777-0)
 
-# Papers
+## Papers
 
+- [A Practical and Sustainable Approach to Industrial Engineering Discrete-Event Simulation with Free Mathematical and Programming Software](https://www.mdpi.com/2071-1050/17/9/3973)
+- [A Qualitative Comparison of Open Access Discrete Event Simulation Libraries](https://doi.org/10.1007/978-3-032-10929-3_26)
 - [A review of open source discrete event simulation software for operations research](https://www.researchgate.net/publication/281391626_A_review_of_open_source_discrete_event_simulation_software_for_operations_research#pfc)
 - [Ciw: An open-source discrete event simulation library](https://www.tandfonline.com/doi/full/10.1080/17477778.2018.1473909)
 - [Discrete Event Simulation: It's Easy with SimPy!](https://arxiv.org/abs/2405.01562)
+- [Discrete-Event Simulation for Smart Manufacturing: Assessing Software, Industry Adoption, and Future Research Challenges](https://doi.org/10.2478/bipcm-2025-0009)
+- [Experimental Comparison of Open Source Discrete-Event Simulation Frameworks](https://doi.org/10.1007/978-3-030-97124-3_24)
 - [Implementing hybrid simulations that integrate DES+SD in Python](https://www.tandfonline.com/doi/abs/10.1080/17477778.2021.1992312)
 
-# Projects
+## Projects
+
 - [Discrete-event-simulation-for-solar-cell-production](https://github.com/slierp/Discrete-event-simulation-for-solar-cell-production)
 
-# Forums 
+## Forums
 
 - [r/CiwPython](https://www.reddit.com/r/CiwPython/)
 - [r/SimPy](https://www.reddit.com/r/SimPy/)
 
-## Notable Posts
+### Notable Posts
+
 - [Simulation in Python](https://or.stackexchange.com/questions/1384/simulation-in-python)
 - [What are process-based DES and event-based DES, exactly?](https://or.stackexchange.com/questions/11670/what-are-process-based-des-and-event-based-des-exactly)
 - [Which books are used today to learn discrete-event simulation?](https://stackoverflow.com/questions/40428009/which-books-are-used-today-to-learn-discrete-event-simulation)
 
-# Tools
+## Tools
 
-**C\#**
+### C\#
+
 - Sim\# ([Github](https://github.com/heal-research/SimSharp))
 
-**C++**
+### C++
+
 - gem5 ([Website](https://www.gem5.org/))
 - ns-3 ([Website](https://www.nsnam.org/))
 - OMNeT++ ([Website](https://omnetpp.org/))
 - SimCpp20 ([Github](https://github.com/fschuetz04/simcpp20))
 
-**Closed Source**
-  - AnyLogic ([Website](https://www.anylogic.com/))
-  - Arena ([Website](https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html))
-  - DELMIA ([Website](https://www.3ds.com/products/delmia))
-  - Enterprise Dynamics ([Website](https://www.incontrolsim.com/))
-  - ExtendSim ([Website](https://extendsim.com/))
-  - FlexSim ([Website](https://www.flexsim.com/))
-  - NetSim ([Website](https://khronos-des.sourceforge.net/))
-  - Simul8 ([Website](https://www.simul8.com/))
-  - GoldSim ([Website](https://www.goldsim.com/))
+### Closed Source
 
-**Erlang**
+- AnyLogic ([Website](https://www.anylogic.com/))
+- Arena ([Website](https://www.rockwellautomation.com/en-us/products/software/arena-simulation.html))
+- DELMIA ([Website](https://www.3ds.com/products/delmia))
+- Enterprise Dynamics ([Website](https://www.incontrolsim.com/))
+- ExtendSim ([Website](https://extendsim.com/))
+- FlexSim ([Website](https://www.flexsim.com/))
+- GoldSim ([Website](https://www.goldsim.com/))
+- NetSim ([Website](https://khronos-des.sourceforge.net/))
+- Simul8 ([Website](https://www.simul8.com/))
+
+### Erlang
+
 - Sim-Diasca ([Github](https://github.com/Olivier-Boudeville-EDF/Sim-Diasca))
 
-**Java**
+### Java
+
 - DESMO-J ([Website](https://desmoj.sourceforge.net/))
 - JaamSim ([Website](https://jaamsim.com/))
 - jasima ([Github](https://github.com/jasima-simulator/jasima-simcore))
 - SSJ ([Github](https://github.com/umontreal-simul/ssj))
 
-**JavaScript**
+### JavaScript
+
 - SIM.JS ([Github](https://github.com/mvarshney/simjs-source))
 
-**Julia**
+### Julia
+
 - ConcurrentSim ([Github](https://github.com/JuliaDynamics/ConcurrentSim.jl))
 - DiscreteEvents ([Github](https://github.com/JuliaDynamics/DiscreteEvents.jl))
 
-**Kotlin**
+### Kotlin
+
 - kalasim ([Github](https://github.com/holgerbrandl/kalasim))
 
-**Python**
+### Python
+
 - BPSimpy ([Github](https://github.com/claudiafracca/BPSimpyLibrary))
 - Ciw ([Github](https://github.com/CiwPython/Ciw))
 - desim ([Github](https://github.com/sed-group/desim))
@@ -124,11 +162,13 @@
 - discrevpy ([Github](https://github.com/snkas/discrevpy))
 - UPSTAGE ([Github](https://github.com/JamesArruda/upstage))
 
-**R**
+### R
+
 - queuecomputer ([Github](https://github.com/AnthonyEbert/queuecomputer))
 - simmer ([Github](https://github.com/r-simmer/simmer))
 
-**Rust**
+### Rust
+
 - desim ([Github](https://github.com/garro95/desim))
 - DESRu ([Github](https://github.com/galenseilis/DESRu))
 - nexosim ([Github](https://github.com/asynchronics/nexosim))
@@ -137,6 +177,15 @@
 - Simcore ([Github](https://github.com/systems-group/simcore/tree/main))
 - Simul ([Github](https://github.com/jmqd/simul))
 
-# Videos
+## Videos
 
-[Ciw Tutorials](https://www.youtube.com/playlist?list=PLduYMAFW6YatFvymP_dCddjGCB7WBvzp_)
+- [Ciw Tutorials](https://www.youtube.com/playlist?list=PLduYMAFW6YatFvymP_dCddjGCB7WBvzp_)
+
+## Related Lists
+
+- [Awesome Queueing Theory Software](https://github.com/A-Herzog/awesome-queueing-theory-software)
+- [List of discrete event simulation software (Wikipedia)](https://en.wikipedia.org/wiki/List_of_discrete_event_simulation_software)
+
+## Contributing
+
+Contributions welcome! Please open a pull request or an issue to suggest a resource.
