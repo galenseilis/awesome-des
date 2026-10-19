@@ -62,6 +62,9 @@
 - Sim\# ([Github](https://github.com/heal-research/SimSharp))
 
 **C++**
+- gem5 ([Website](https://www.gem5.org/))
+- ns-3 ([Website](https://www.nsnam.org/))
+- OMNeT++ ([Website](https://omnetpp.org/))
 - SimCpp20 ([Github](https://github.com/fschuetz04/simcpp20))
 
 **Closed Source**
@@ -79,16 +82,26 @@
 - Sim-Diasca ([Github](https://github.com/Olivier-Boudeville-EDF/Sim-Diasca))
 
 **Java**
+- DESMO-J ([Website](https://desmoj.sourceforge.net/))
+- JaamSim ([Website](https://jaamsim.com/))
 - jasima ([Github](https://github.com/jasima-simulator/jasima-simcore))
+- SSJ ([Github](https://github.com/umontreal-simul/ssj))
+
+**JavaScript**
+- SIM.JS ([Github](https://github.com/mvarshney/simjs-source))
 
 **Julia**
 - ConcurrentSim ([Github](https://github.com/JuliaDynamics/ConcurrentSim.jl))
+- DiscreteEvents ([Github](https://github.com/JuliaDynamics/DiscreteEvents.jl))
+
+**Kotlin**
+- kalasim ([Github](https://github.com/holgerbrandl/kalasim))
 
 **Python**
 - BPSimpy ([Github](https://github.com/claudiafracca/BPSimpyLibrary))
 - Ciw ([Github](https://github.com/CiwPython/Ciw))
 - desim ([Github](https://github.com/sed-group/desim))
-- desmod [Github](https://github.com/westerndigitalcorporation/desmod)
+- desmod ([Github](https://github.com/westerndigitalcorporation/desmod))
 - DE-Sim ([Github](https://github.com/KarrLab/de_sim))
 - DESimpy ([Github](https://github.com/galenseilis/DESimpy))
 - DESpy ([Github](https://github.com/ahbuss/DESpy))
@@ -98,10 +111,11 @@
 - HCiw ([Github](https://github.com/galenseilis/HCiw))
 - Khronos ([Sourceforge](https://khronos-des.sourceforge.net/))
 - pesim ([Github](https://github.com/Tefx/pesim))
-- plugboard ([Github)(https://github.com/plugboard-dev/plugboard))
+- plugboard ([Github](https://github.com/plugboard-dev/plugboard))
 - PMSIM ([Github](https://github.com/mbafrani/AutomaticProcessSimulation))
 - Py-DES ([Github](https://github.com/vitostamatti/pydes/tree/main))
 - Queueing-tool ([Github](https://github.com/djordon/queueing-tool))
+- QueueSim ([Github](https://github.com/A-Herzog/queuesim))
 - Salabim ([Github](https://github.com/salabim/salabim))
 - SimCraft ([Github](https://github.com/bulentsoykan/simcraft))
 - SimDist ([Github](https://github.com/galenseilis/SimDist))
@@ -111,12 +125,14 @@
 - UPSTAGE ([Github](https://github.com/JamesArruda/upstage))
 
 **R**
+- queuecomputer ([Github](https://github.com/AnthonyEbert/queuecomputer))
 - simmer ([Github](https://github.com/r-simmer/simmer))
 
 **Rust**
 - desim ([Github](https://github.com/garro95/desim))
 - DESRu ([Github](https://github.com/galenseilis/DESRu))
 - nexosim ([Github](https://github.com/asynchronics/nexosim))
+- QuokkaSim ([Github](https://github.com/jajetloh/quokkasim))
 - Sim ([Github](https://github.com/ndebuhr/sim))
 - Simcore ([Github](https://github.com/systems-group/simcore/tree/main))
 - Simul ([Github](https://github.com/jmqd/simul))
