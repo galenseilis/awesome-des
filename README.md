@@ -115,6 +115,7 @@
 | GoldSim ([Website](https://www.goldsim.com/)) | Closed source | Dynamic systems simulation in a Monte Carlo framework, combining system dynamics with discrete event elements. |
 | NetSim ([Website](https://www.tetcos.com/)) | Closed source | Packet-level network simulator from TETCOS used for networking R&D and teaching. |
 | Simul8 ([Website](https://www.simul8.com/)) | Closed source | Commercial discrete event simulation tool for modelling and analysing business processes. |
+| ProcessMind ([Website](https://processmind.com/)) | Closed source | Browser-based process simulation: mine an event log, model the process in BPMN 2.0, then run discrete event what-if simulations on the real data. |
 | Sim-Diasca ([GitHub](https://github.com/Olivier-Boudeville-EDF/Sim-Diasca)) | Erlang | Multi-model, DEVS-based simulation engine with 2D/3D animation, developed at EDF. |
 | DESMO-J ([Website](https://desmoj.sourceforge.net/)) | Java | Discrete event simulation framework from the University of Hamburg, supporting hybrid event/process models and 2D/3D animation. |
 | JaamSim ([Website](https://jaamsim.com/)) | Java | Open source discrete event simulator with a drag-and-drop GUI and interactive 3D graphics. |
